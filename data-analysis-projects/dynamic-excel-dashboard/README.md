@@ -130,8 +130,6 @@ The dashboard provides clear insights into which carriers are consistently on ti
 
 
 2. **Detailed View:**
-![image](https://github.com/user-attachments/assets/196c512a-e443-4779-bf3a-dd23b2abdcfd)
-
 ![image](https://github.com/user-attachments/assets/8ca3685d-50c5-4c19-a6e7-9485917f6dbe)
 
 
