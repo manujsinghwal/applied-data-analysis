@@ -96,5 +96,6 @@ In every iteration, there might be some errors while calculating the success eve
 ### Automated Email Summary:
 \
 Management would like to have an summary report for every iteration that should be pushed through an automated email. This report should contain the summary for success events and errors.
+
 ![image](https://github.com/user-attachments/assets/d2b264a1-25b8-4df6-87b7-1e944de646ab)
 
