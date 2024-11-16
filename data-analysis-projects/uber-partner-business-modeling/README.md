@@ -1,6 +1,9 @@
 # Uber Partner Business Modeling
 \
-![image](https://github.com/user-attachments/assets/8b46de28-3970-4769-8281-4085a4d8b74e)
+
+<p align="center">
+![image](https://github.com/user-attachments/assets/d10dc2a2-a5cb-46da-88d7-55e2a414e867)
+</p>
 
 
 ### Assignment
