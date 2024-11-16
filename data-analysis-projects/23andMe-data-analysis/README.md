@@ -1,6 +1,7 @@
 # 23andMe Data Analysis
 \
-![image](https://github.com/manujsinghwal/23andMe-data-analysis/assets/40256851/1e03cb3b-3532-4524-8f2d-35c5a09232c0)
+![23andMe_logo svg](https://github.com/user-attachments/assets/48da1ae6-20ca-480c-8267-111f90e4e855)
+
 \
 **Assignment:**
 \
