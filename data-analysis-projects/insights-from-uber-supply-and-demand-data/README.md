@@ -1,6 +1,6 @@
 # Insights From Uber Supply And Demand Data
 \
-![image](https://github.com/user-attachments/assets/7ede94f4-a92e-44ae-84ca-2b0f98888963)
+![Uber](https://github.com/user-attachments/assets/a4e8fd8f-cfe5-43fb-97ba-b0f10661cf55)
 \
 The data set provided [uber.csv](https://drive.google.com/file/d/1eh_gE-4NdmYNbmxGAuiJ0B_ibURtoWwe/view?usp=sharing) 
 
