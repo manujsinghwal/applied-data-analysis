@@ -1,6 +1,7 @@
 # Uber Partner Business Modeling
 \
-![uber](https://github.com/manujsinghwal/uber-partner-business-modeling/assets/40256851/c3a37a53-5866-4837-baef-81999bcd1664)
+![image](https://github.com/user-attachments/assets/8b46de28-3970-4769-8281-4085a4d8b74e)
+
 
 ### Assignment
 \
